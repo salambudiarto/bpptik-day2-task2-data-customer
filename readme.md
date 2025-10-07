@@ -1,4 +1,4 @@
-# Tugas 2 - Aplikasi CRUD Data Customer (PHP + JSON)
+# Day 2 - Tugas 2 - Aplikasi CRUD Data Customer (PHP + JSON)
 
 ## Deskripsi Proyek
 
@@ -118,5 +118,6 @@ Proyek ini dibuat untuk tujuan **pembelajaran dasar PHP dan manajemen data berba
 |----------------|-------------|
 | **Nama**       | Salam Budiarto |
 | **Kelas**      | B |
-| **Tugas**      | Tugas 2 - Kalkulator Sederhana |
+| **Tugas**      | Day 2 - Tugas 2 - Data Customer |
 | **Tanggal**    | 05 Oktober 2025, 13:00 WIB |
+
